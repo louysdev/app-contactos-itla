@@ -1,0 +1,209 @@
+﻿++Solución "El_Proyecto" ‎(2 de 2 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:El_Proyecto.sln
+++Capas.NetFramwork.ADO.Net
+i:{00000000-0000-0000-0000-000000000000}:Capas.NetFramwork.ADO.Net
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++Properties
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:c:\users\juani\source\repos\el_proyecto\capas.netframwork.ado.net\properties\
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\properties\
+++Referencias
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++Business
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:c:\users\juani\source\repos\el_proyecto\capas.netframwork.ado.net\business\
+++ClassBusiness.cs
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:c:\users\juani\source\repos\el_proyecto\capas.netframwork.ado.net\business\classbusiness.cs
+++Data
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:c:\users\juani\source\repos\el_proyecto\capas.netframwork.ado.net\data\
+++ClassData.cs
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:c:\users\juani\source\repos\el_proyecto\capas.netframwork.ado.net\data\classdata.cs
+++Class1.cs
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:c:\users\juani\source\repos\el_proyecto\capas.netframwork.ado.net\class1.cs
+++AssemblyInfo.cs
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:c:\users\juani\source\repos\el_proyecto\capas.netframwork.ado.net\properties\assemblyinfo.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\properties\assemblyinfo.cs
+++Microsoft.CSharp
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Configuration
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Core
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Data
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Data.DataSetExtensions
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Net.Http
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Xml
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Xml.Linq
+i:{3fb3ecab-def6-4656-8e19-d70cd16aa1f4}:
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++El_Proyecto
+i:{00000000-0000-0000-0000-000000000000}:El_Proyecto
+++System.Deployment
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Drawing
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Web.Extensions
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++System.Windows.Forms
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++Telerik.WinControls
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++Telerik.WinControls.UI
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++TelerikCommon
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:
+++Resources
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\
+++Icono de ayuda de login mas pequeño.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de ayuda de login mas pequeño.png
+++Icono de ayuda de login.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de ayuda de login.png
+++Icono de menos.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de menos.png
+++Icono de ocultar contraseña pequeño.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de ocultar contraseña pequeño.png
+++Icono de ocultar contraseña.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de ocultar contraseña.png
+++Icono de otra x mas grande.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de otra x mas grande.png
+++Icono de otra x.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de otra x.png
+++Icono de password de text box.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de password de text box.png
+++Icono de Registro pequeño.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de registro pequeño.png
+++Icono de Registro.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de registro.png
+++Icono de text box usuario.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de text box usuario.png
+++Icono de User.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de user.png
+++Icono de X pequeño.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de x pequeño.png
+++Icono de X.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\icono de x.png
+++Logo de la aplicacion.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\logo de la aplicacion.png
+++App.config
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\app.config
+++AvisoNegativo.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\avisonegativo.cs
+++AvisoPositivo.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\avisopositivo.cs
+++FmGrupoEntidades.cs
+++FmLogin.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmlogin.cs
+++FmMenuPrincipal.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmmenuprincipal.cs
+++FmSplash.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmsplash.cs
+++Program.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\program.cs
+++licenses.licx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\properties\licenses.licx
+++Resources.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\properties\resources.resx
+++Settings.settings
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\properties\settings.settings
+++AvisoNegativo.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\avisonegativo.designer.cs
+++AvisoNegativo.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\avisonegativo.resx
+++AvisoPositivo.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\avisopositivo.designer.cs
+++AvisoPositivo.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\avisopositivo.resx
+++FmGrupoEntidades.Designer.cs
+++FmGrupoEntidades.resx
+++FmLogin.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmlogin.designer.cs
+++FmLogin.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmlogin.resx
+++FmMenuPrincipal.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmmenuprincipal.designer.cs
+++FmMenuPrincipal.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmmenuprincipal.resx
+++FmSplash.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmsplash.designer.cs
+++FmSplash.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmsplash.resx
+++Resources.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\properties\settings.designer.cs
+++Foto Yoque.png
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\foto yoque.png
+++Foto Louys.jpg
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\resources\foto louys.jpg
+++FmAcerca.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmacerca.cs
+++FmAcerca.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmacerca.designer.cs
+++FmAcerca.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmacerca.resx
+++AvisoRegistro.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\avisoregistro.cs
+++AvisoRegistro.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\avisoregistro.designer.cs
+++AvisoRegistro.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\avisoregistro.resx
+++bin
+++Debug
+++Release
+++Capas.NetFramwork.ADO.Net.dll
+++Capas.NetFramwork.ADO.Net.pdb
+++El_Proyecto.exe
+++El_Proyecto.exe.config
+++El_Proyecto.pdb
+++Telerik.WinControls.dll
+++Telerik.WinControls.UI.dll
+++Telerik.WinControls.UI.xml
+++Telerik.WinControls.xml
+++TelerikCommon.dll
+++FmRegistro.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmregistro.cs
+++FmRegistro.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmregistro.designer.cs
+++FmRegistro.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fmregistro.resx
+++obj
+++TempPE
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+++DesignTimeResolveAssemblyReferences.cache
+++DesignTimeResolveAssemblyReferencesInput.cache
+++El_Proyecto.AvisoNegativo.resources
+++El_Proyecto.AvisoPositivo.resources
+++El_Proyecto.csproj.AssemblyReference.cache
+++El_Proyecto.csproj.CopyComplete
+++El_Proyecto.csproj.CoreCompileInputs.cache
+++El_Proyecto.csproj.FileListAbsolute.txt
+++El_Proyecto.csproj.GenerateResource.cache
+++El_Proyecto.csproj.SuggestedBindingRedirects.cache
+++el_proyecto.exe.licenses
+++El_Proyecto.FmAcerca.resources
+++El_Proyecto.FmLogin.resources
+++El_Proyecto.FmMenuPrincipal.resources
+++El_Proyecto.FmSplash.resources
+++El_Proyecto.Properties.Resources.resources
+++Properties.Resources.Designer.cs.dll
+++FmInformacion.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fminformacion.cs
+++FmInformacion.Designer.cs
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fminformacion.designer.cs
+++FmInformacion.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fminformacion.resx
+++FmInformacion.dje-NE.resx
+i:{307ecb43-1cd8-4a0f-8122-7405ad04442d}:c:\users\juani\source\repos\el_proyecto\el_proyecto\fminformacion.dje-ne.resx

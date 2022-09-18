@@ -1,0 +1,6 @@
+C:\Users\juani\source\repos\El_Proyecto\Capas.NetFramwork.ADO.Net\bin\Debug\Capas.NetFramwork.ADO.Net.dll
+C:\Users\juani\source\repos\El_Proyecto\Capas.NetFramwork.ADO.Net\bin\Debug\Capas.NetFramwork.ADO.Net.pdb
+C:\Users\juani\source\repos\El_Proyecto\Capas.NetFramwork.ADO.Net\obj\Debug\Capas.NetFramwork.ADO.Net.csproj.AssemblyReference.cache
+C:\Users\juani\source\repos\El_Proyecto\Capas.NetFramwork.ADO.Net\obj\Debug\Capas.NetFramwork.ADO.Net.csproj.CoreCompileInputs.cache
+C:\Users\juani\source\repos\El_Proyecto\Capas.NetFramwork.ADO.Net\obj\Debug\Capas.NetFramwork.ADO.Net.dll
+C:\Users\juani\source\repos\El_Proyecto\Capas.NetFramwork.ADO.Net\obj\Debug\Capas.NetFramwork.ADO.Net.pdb
